@@ -1,0 +1,7 @@
+C:\Users\TonyTaze\Downloads\Universidad\Sexto Ciclo\TRABAJO SUPERVISADO\HTR\EstructurasSelectivas\EstructurasSelectivas\bin\Debug\EstructurasSelectivas.exe.config
+C:\Users\TonyTaze\Downloads\Universidad\Sexto Ciclo\TRABAJO SUPERVISADO\HTR\EstructurasSelectivas\EstructurasSelectivas\bin\Debug\EstructurasSelectivas.exe
+C:\Users\TonyTaze\Downloads\Universidad\Sexto Ciclo\TRABAJO SUPERVISADO\HTR\EstructurasSelectivas\EstructurasSelectivas\bin\Debug\EstructurasSelectivas.pdb
+C:\Users\TonyTaze\Downloads\Universidad\Sexto Ciclo\TRABAJO SUPERVISADO\HTR\EstructurasSelectivas\EstructurasSelectivas\obj\Debug\EstructurasSelectivas.csprojAssemblyReference.cache
+C:\Users\TonyTaze\Downloads\Universidad\Sexto Ciclo\TRABAJO SUPERVISADO\HTR\EstructurasSelectivas\EstructurasSelectivas\obj\Debug\EstructurasSelectivas.csproj.CoreCompileInputs.cache
+C:\Users\TonyTaze\Downloads\Universidad\Sexto Ciclo\TRABAJO SUPERVISADO\HTR\EstructurasSelectivas\EstructurasSelectivas\obj\Debug\EstructurasSelectivas.exe
+C:\Users\TonyTaze\Downloads\Universidad\Sexto Ciclo\TRABAJO SUPERVISADO\HTR\EstructurasSelectivas\EstructurasSelectivas\obj\Debug\EstructurasSelectivas.pdb
